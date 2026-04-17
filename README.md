@@ -123,9 +123,9 @@ flashcard/
 1. **Viewing Cards**: Cards display questions by default
 2. **Flipping Cards**: Click anywhere on a card to reveal the answer
 3. **Navigation**: Use the arrow buttons to move between cards
-4. **Progress**: Check the progress indicator at the top
+4. **Progress**: Check the progress indicator at the bottom
 5. **Settings**: Hover over the gear icon (⚙️) in the top-right to access:
-   - Dark mode toggle
+   - Dark mode toggle (to be updated)
    - Reset to first card
 
 ## Contributing
