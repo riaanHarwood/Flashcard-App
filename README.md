@@ -2,6 +2,9 @@
 
 A modern, interactive flashcard web application built with Next.js and React. This project demonstrates frontend development skills with a focus on user experience, animations, and responsive design.
 
+<img width="1433" height="675" alt="Screenshot 2026-04-17 at 10 36 49 PM" src="https://github.com/user-attachments/assets/89a7483e-20ad-4cd9-a78b-c6b1cf8280bf" />
+
+
 ## Features
 
 - **Interactive Flashcards**: Click to flip between question and answer sides
@@ -120,9 +123,9 @@ flashcard/
 1. **Viewing Cards**: Cards display questions by default
 2. **Flipping Cards**: Click anywhere on a card to reveal the answer
 3. **Navigation**: Use the arrow buttons to move between cards
-4. **Progress**: Check the progress indicator at the top
+4. **Progress**: Check the progress indicator at the bottom
 5. **Settings**: Hover over the gear icon (⚙️) in the top-right to access:
-   - Dark mode toggle
+   - Dark mode toggle (to be updated)
    - Reset to first card
 
 ## Contributing
