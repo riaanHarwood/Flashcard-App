@@ -2,15 +2,16 @@
 
 A modern, interactive flashcard web application built with Next.js and React. This project demonstrates frontend development skills with a focus on user experience, animations, and responsive design.
 
-<img width="1433" height="675" alt="Screenshot 2026-04-17 at 10 36 49 PM" src="https://github.com/user-attachments/assets/89a7483e-20ad-4cd9-a78b-c6b1cf8280bf" />
-
 <br>
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This is a Next.js 16 React application built with TypeScript and Tailwind CSS that creates an interactive flashcard learning system. The app allows users to cycle through flashcards, flip them to reveal answers, and toggle between light/dark themes.
 
 <br>
+
+<img width="1433" height="675" alt="Screenshot 2026-04-17 at 10 36 49 PM" src="https://github.com/user-attachments/assets/89a7483e-20ad-4cd9-a78b-c6b1cf8280bf" />
+
 
 ## Features
 
