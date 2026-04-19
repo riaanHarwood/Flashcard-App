@@ -1,5 +1,7 @@
 # Flashcard App
 
+**Frontend project**
+
 A modern, interactive flashcard web application built with Next.js and React. This project demonstrates my personal frontend development skills with a focus on user experience, animations, and responsive design.
 
 <br>
